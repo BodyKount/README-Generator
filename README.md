@@ -1,2 +1,39 @@
-# README-Generator
-A Quick README Generator using Node.js to created a README file for future repositorys
+# Professional README Generator
+  
+  ## Description
+  This project is to use simple Node commands to generator a README file for current and future projects.
+  
+  ## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contribution](#contribution)
+  - [Testing](#testing)
+  - [Questions](#questions)
+  
+  ## Installation
+  ```
+  Install the initial init file, then install the inquirer package needed for the program to run successfully.
+  ```
+  
+  ## Usage
+  This project will be used to quickly create readme files for projects in the future to save time.
+  
+  ## License
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  undefined
+  For more details, see the license documentation: https://opensource.org/licenses/MIT
+  
+  ## Contribution
+  N/A
+  
+  ## Testing
+  ```
+  Make sure to follow all the installation guidlines required
+  ```
+  
+  ## Questions
+  If you have any questions, feel free to reach out:
+  - GitHub: [Bodykount](https://github.com/Bodykount)
+  - Email: [cness1989@icloud.com](mailto:cness1989@icloud.com)
+  
