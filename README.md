@@ -31,7 +31,11 @@
   ```
   Make sure to follow all the installation guidlines required
   ```
+
+  ## Example Video
   
+  [Readme Generator - how to video .webm](https://github.com/user-attachments/assets/47a40fd6-b096-4d2e-a059-b0cbf0cbcb34)
+
   ## Questions
   If you have any questions, feel free to reach out:
   - GitHub: [Bodykount](https://github.com/Bodykount)
