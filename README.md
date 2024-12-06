@@ -25,7 +25,7 @@
   For more details, see the license documentation: https://opensource.org/licenses/MIT
   
   ## Contribution
-  N/A
+  Sources helped in the cration was information gained through class instructions, TA's, homework study groups and independant research online.
   
   ## Testing
   ```
