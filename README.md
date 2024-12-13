@@ -34,7 +34,8 @@
 
   ## Example Video
   
-  [Readme Generator - how to video .webm](https://github.com/user-attachments/assets/47a40fd6-b096-4d2e-a059-b0cbf0cbcb34)
+  [[Readme Generator - how to video .webm](https://github.com/user-attachments/assets/47a40fd6-b096-4d2e-a059-b0cbf0cbcb34)]
+  (https://drive.google.com/file/d/104MqeUpsy8d8_7DsmgFZyB00LL9JL-ME/view?usp=drive_link)
 
   ## Questions
   If you have any questions, feel free to reach out:
